@@ -1,3 +1,10 @@
+<html>
+<head>
+	<link rel="stylesheet" href=":resource//content-accesible/plaintext.css"></link>
+</head>
+
+<body> <pre>
+
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
@@ -7238,3 +7245,7 @@ html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUES
 	transform: unset !important;
 	animation: unset !important;
 }
+
+</pre>
+</body>
+</html>
